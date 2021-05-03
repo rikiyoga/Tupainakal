@@ -4,3 +4,5 @@ coba coba
 -daftar github
 -belajar membuat file
 -menyimpan github
+-barnch
+-merge
